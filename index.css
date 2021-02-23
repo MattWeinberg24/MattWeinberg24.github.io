@@ -5,6 +5,23 @@ body {
 img {
     width: 200px;
     border-radius: 10px;
+    float: top;
     margin: 10px;
     margin-left: 0px;
+}
+p.list_name {
+    font-weight: bold;
+}
+em {
+    color: red;
+    font-style: italic;
+}
+strong {
+    
+    font-family: 'Impact';
+    font-weight: normal;
+    font-size: xx-large;
+    outline-style: double;
+    outline-color: darkblue;
+    outline-width: thick;
 }
