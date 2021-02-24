@@ -2,12 +2,16 @@ body {
     background-color: black;
     color: lightskyblue;
 }
+.bestest {
+    display: flex;
+    align-items: center;
+}
 img {
-    width: 200px;
+    width: 300px;
     border-radius: 10px;
-    float: top;
-    margin: 10px;
+    margin: 20px;
     margin-left: 0px;
+    cursor: pointer;
 }
 p.list_name {
     font-weight: bold;
@@ -24,4 +28,16 @@ strong {
     outline-style: double;
     outline-color: darkblue;
     outline-width: thick;
+}
+.bestest_download {
+    font-size: xx-large;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: green;
+}
+a:active {
+    color: blue;
 }
