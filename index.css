@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: lightskyblue;
 }
-.bestest {
+#bestest {
     display: flex;
     align-items: center;
 }
@@ -13,8 +13,9 @@ img {
     margin-left: 0px;
     cursor: pointer;
 }
-p.list_name {
-    font-weight: bold;
+#link_list {
+    width: min-content;
+    outline-style: groove;
 }
 em {
     color: red;
@@ -29,7 +30,7 @@ strong {
     outline-color: darkblue;
     outline-width: thick;
 }
-.bestest_download {
+#bestest_download {
     font-size: xx-large;
 }
 a:link {
