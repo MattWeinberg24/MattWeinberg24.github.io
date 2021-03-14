@@ -1,3 +1,13 @@
+#title{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+#title h1 {
+    color: lavender;
+    font-family: 'Courier New', Courier, monospace;
+    outline-style: dashed;
+}
 body {
     background-color: black;
     color: lightskyblue;
@@ -6,7 +16,10 @@ body {
     display: flex;
     align-items: center;
 }
-img {
+#bestest_download {
+    font-size: xx-large;
+}
+#bestest img {
     width: 300px;
     border-radius: 10px;
     margin: 20px;
@@ -17,21 +30,11 @@ img {
     width: min-content;
     outline-style: groove;
 }
-em {
-    color: red;
-    font-style: italic;
+#link_list h2 {
+    line-height: 0px;
 }
-strong {
-    
-    font-family: 'Impact';
-    font-weight: normal;
-    font-size: xx-large;
-    outline-style: double;
-    outline-color: darkblue;
-    outline-width: thick;
-}
-#bestest_download {
-    font-size: xx-large;
+#link_list ul {
+    padding-left: 20px;
 }
 a:link {
     color: white;
