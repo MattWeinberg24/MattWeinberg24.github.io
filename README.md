@@ -16,3 +16,5 @@ Day 5: Entities, Lorem, Line Break, Anchor, Hyperlink, Cursor Pointer, Div, Down
 Day 6: Custom Domain (Failed), ID, Links Within Same Page, Email Link
 
 Day 7: Custom Domain (Succeeded)
+
+Day 8: Reformatting, Lists, Centering
