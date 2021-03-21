@@ -18,3 +18,5 @@ Day 6: Custom Domain (Failed), ID, Links Within Same Page, Email Link
 Day 7: Custom Domain (Succeeded)
 
 Day 8: Reformatting, Lists, Centering
+
+Day 9: More Flex Container, Margins, Padding, Cleaning Up

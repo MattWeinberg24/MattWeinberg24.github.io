@@ -1,17 +1,35 @@
+body {
+    background-color: black;
+    color: lavender;
+}
 #title{
     margin: auto;
-    width: 50%;
+    width: 400px;
     text-align: center;
-}
-#title h1 {
-    color: lavender;
     font-family: 'Courier New', Courier, monospace;
     outline-style: dashed;
 }
-body {
-    background-color: black;
-    color: lightskyblue;
+h1 {
+    margin: 0px;
 }
+#links {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.linkpic {
+    width: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.linkpic img {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50px;
+}
+
 #bestest {
     display: flex;
     align-items: center;
@@ -26,22 +44,12 @@ body {
     margin-left: 0px;
     cursor: pointer;
 }
-#link_list {
-    width: min-content;
-    outline-style: groove;
-}
-#link_list h2 {
-    line-height: 0px;
-}
-#link_list ul {
-    padding-left: 20px;
-}
 a:link {
-    color: white;
+    color: lavender;
 }
 a:visited {
-    color: green;
+    color: lavender;
 }
 a:active {
-    color: blue;
+    color: gray;
 }
