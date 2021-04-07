@@ -1,5 +1,4 @@
-﻿# MattWeinberg24.github.io
-## Website for learning HTML, CSS, and Javascript
+## Matt Weinberg's personal website, created using [Jekyll](https://jekyllrb.com/), HTML, CSS, and Javascript
 ## https://mattweinberg.dev
 
 ### Progress Tracker
@@ -20,3 +19,5 @@ Day 7: Custom Domain (Succeeded)
 Day 8: Reformatting, Lists, Centering
 
 Day 9: More Flex Container, Margins, Padding, Cleaning Up
+
+Day 10: Switched over to Jekyll, moved old website to https://mattweinberg.dev/legacy
