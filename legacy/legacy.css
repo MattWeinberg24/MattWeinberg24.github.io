@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: lavender;
+}
+#title{
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    outline-style: dashed;
+}
+h1 {
+    margin: 0px;
+}
+#links {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.linkpic {
+    width: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.linkpic img {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50px;
+}
+
+#bestest {
+    display: flex;
+    align-items: center;
+}
+#bestest_download {
+    font-size: xx-large;
+}
+#bestest img {
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+a:link {
+    color: lavender;
+}
+a:visited {
+    color: lavender;
+}
+a:active {
+    color: gray;
+}
