@@ -3,4 +3,4 @@
 ## https://mattweinberg.dev
 
 ### To-Do
-Navigation Menu: Currently Working on (May 13 2021)
+Navigation Menu: Currently Working On [Tutorial I Used](https://youtu.be/gXkqy0b4M5g)
