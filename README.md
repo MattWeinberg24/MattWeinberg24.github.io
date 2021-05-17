@@ -3,4 +3,4 @@
 ## https://mattweinberg.dev
 
 ### To-Do
-Navigation Menu: Currently Working On [Tutorial I Used](https://youtu.be/gXkqy0b4M5g)
+Navigation Menu: Currently Working On ([Reference](https://youtu.be/gXkqy0b4M5g))
