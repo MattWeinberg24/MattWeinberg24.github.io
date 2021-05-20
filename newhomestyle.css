@@ -3,15 +3,23 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body {
+    background-color:rgb(30, 30, 30);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    text-decoration: none;
+}
 nav {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     height: 60px;
-    font-family: 'Courier New', Courier, monospace;
     background-color: gray;
 }
 .logo {
+    color: black;
     text-transform: uppercase;
     font-size: 20px;
 }
@@ -25,7 +33,6 @@ nav {
 }
 .nav-links a {
     color: black;
-    text-decoration: none;
 }
 .burger {
     display: none;
@@ -72,4 +79,24 @@ nav {
         opacity: 1;
         transform: translateY(0px);
     }
+}
+.icon-links {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 175px;
+    margin: 10px;
+    padding: 5px;
+    border-style: groove;
+    background-color: black;
+    z-index: -2;
+}
+.icon-links a {
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
+.icon-links img {
+    width: 50px;
 }
