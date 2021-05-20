@@ -4,6 +4,7 @@
 
 ### To-Do
 **Navigation Menu**: Finished May 19, 2021 ([Reference](https://youtu.be/gXkqy0b4M5g))
+
 *Notable Deviations from Reference:*
 * Simplified opacity fade-in by using transitions instead of animations, similar to how the other transitions were implemented
 * Navigation menu is horizontal instead of vertical in mobile mode (mobile mode = small width screen)
