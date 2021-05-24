@@ -1,8 +1,12 @@
-var audio = new Audio("audio/bestest.mp3");
-function playBestest() {
-    var speed = Math.random() * 1.7 + 0.3;
-    audio.currentTime = 0;
-    audio.playbackRate = speed;
-    audio.play();
-    console.log("Bestest at " + (speed*100) + "%");
+var burger = document.querySelector('.burger');
+var nav = document.querySelector('.nav-links');
+var navLinks = document.querySelectorAll('.nav-links li');
+function navSlide() { 
+    nav.classList.toggle('nav-active');
+    burger.classList.toggle('burger-rotated');
+    navLinks.forEach((link,i) => {
+        setTimeout(function() {
+        link.classList.toggle('link-opacitated');
+        }, 1000 * i / 10);
+    });
 }
