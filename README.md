@@ -4,6 +4,7 @@
 
 ### To-Do
 *Colors, fonts, and stuff like that will change all the time*
+
 **Navigation Menu**: Finished May 19, 2021 ([Reference](https://youtu.be/gXkqy0b4M5g))
 
 *Notable Deviations from Reference:*
