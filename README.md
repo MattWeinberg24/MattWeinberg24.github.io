@@ -16,3 +16,7 @@
 
 * Utilized what I learned about flexbox and aligning items
 * Made both the image and the header a part of one link
+
+**Code Snippet Syntax Highlighting**: Implemented May 26, 2021
+
+* Uses [prismjs](https://prismjs.com/) with the "Tomorrow Night" theme
