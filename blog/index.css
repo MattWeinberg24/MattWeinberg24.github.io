@@ -1,4 +1,7 @@
-h1 {
+.blog {
     position: relative;
     z-index: -2;
+}
+.blog h1 {
+    margin: 10px;
 }
