@@ -21,3 +21,7 @@
 **Code Snippet Syntax Highlighting**: Implemented May 26, 2021
 
 * Uses [prismjs](https://prismjs.com/) with the "Tomorrow Night" theme
+
+**Integrate jQuery into Navigation**: Currently Working On
+
+* Will load navigaition bar html from a separate navi.html file instead of manually adding it to every page's html
