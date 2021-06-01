@@ -4,6 +4,7 @@
 
 ### To-Do
 *Colors, fonts, and stuff like that will change all the time*
+
 **Navigation Menu**: Finished May 19, 2021 ([Reference](https://youtu.be/gXkqy0b4M5g))
 
 *Notable Deviations from Reference:*
@@ -16,3 +17,7 @@
 
 * Utilized what I learned about flexbox and aligning items
 * Made both the image and the header a part of one link
+
+**Code Snippet Syntax Highlighting**: Implemented May 26, 2021
+
+* Uses [prismjs](https://prismjs.com/) with the "Tomorrow Night" theme
